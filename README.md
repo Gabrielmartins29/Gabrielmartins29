@@ -18,7 +18,7 @@ Estou aprendendo a utilizar estas ferramentas durante minha formação:
 ## 🎯 Meu Roadmap (Próximos 6 meses)
 
 - [ ] Concluir meu Canvas de Carreira.
-- [ ] Publicar meu README de perfil profissional.
+- [x] Publicar meu README de perfil profissional.
 - [ ] Estudar fundamentos de redes e segurança da informação.
 - [ ] Praticar comandos básicos de Linux.
 - [ ] Publicar dois projetos de estudo com documentação no GitHub.
